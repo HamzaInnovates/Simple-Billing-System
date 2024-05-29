@@ -1,0 +1,145 @@
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Simple Billing System.exe
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Simple Billing System.deps.json
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Simple Billing System.runtimeconfig.json
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Simple Billing System.runtimeconfig.dev.json
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Simple Billing System.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Simple Billing System.pdb
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple Billing System.csproj.AssemblyReference.cache
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple_Billing_System.Main.resources
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple_Billing_System.Products.resources
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple Billing System.csproj.GenerateResource.cache
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple Billing System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple Billing System.AssemblyInfoInputs.cache
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple Billing System.AssemblyInfo.cs
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple Billing System.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple Billing System.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple Billing System.pdb
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple Billing System.genruntimeconfig.cache
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple_Billing_System.NewBill.resources
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple_Billing_System.login.resources
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple Billing System.csproj.CopyComplete
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple_Billing_System.Properties.Resources.resources
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple_Billing_System.View.resources
+C:\Users\DeLL\source\repos\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple_Billing_System.UpdateBill.resources
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Simple Billing System.exe
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Simple Billing System.deps.json
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Simple Billing System.runtimeconfig.json
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Simple Billing System.runtimeconfig.dev.json
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Simple Billing System.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Simple Billing System.pdb
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple Billing System.csproj.AssemblyReference.cache
+D:\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple_Billing_System.login.resources
+D:\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple_Billing_System.Main.resources
+D:\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple_Billing_System.NewBill.resources
+D:\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple_Billing_System.Products.resources
+D:\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple_Billing_System.Properties.Resources.resources
+D:\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple_Billing_System.UpdateBill.resources
+D:\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple_Billing_System.View.resources
+D:\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple Billing System.csproj.GenerateResource.cache
+D:\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple Billing System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple Billing System.AssemblyInfoInputs.cache
+D:\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple Billing System.AssemblyInfo.cs
+D:\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple Billing System.csproj.CoreCompileInputs.cache
+D:\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple Billing System.csproj.CopyComplete
+D:\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple Billing System.dll
+D:\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple Billing System.pdb
+D:\Simple Billing System\Simple Billing System\obj\Debug\netcoreapp3.1\Simple Billing System.genruntimeconfig.cache
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Simple Billing System\Simple Billing System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
